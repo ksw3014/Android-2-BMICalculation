@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "ian.com.bmicalculate"
+        applicationId "ian.com.bmicalculation"
         minSdkVersion 30
         targetSdkVersion 31
         versionCode 1

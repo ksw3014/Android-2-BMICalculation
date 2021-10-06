@@ -1,4 +1,4 @@
-package ian.com.bmicalculate;
+package ian.com.bmicalculation;
 
 import android.content.Context;
 
